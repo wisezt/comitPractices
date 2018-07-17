@@ -1,6 +1,6 @@
 There are total 3 classes.
 
-The first is the "Song.java" which is used to store song's "Title" and "Author".
+The first is the "Song.java" which is used to store songs' "Title" and "Author".
 
 The second and most important is the "MusicPlayer.java" including all the functions
 as display menu, show playlist, add song, play song and quit.
