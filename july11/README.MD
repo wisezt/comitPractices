@@ -7,5 +7,5 @@ as display menu, show playlist, add song, play song and quit.
 
 The last one is "MusicPlayerProgram.java" which is used to initial and invoke the "Music Player".
 
-If you find any bugs please, let me know.
+If you find any bugs, please let me know.
 Thank you
