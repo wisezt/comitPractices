@@ -1,0 +1,1 @@
+14)	It is necessary to create a software for Subs restaurant that allows to choose between several available cold meats, to add them to a sandwich, and that as the process continues the final price of the sandwich is calculated. Consider that there should be a base price, and each ham will have an individual price.
